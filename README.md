@@ -1,5 +1,18 @@
 # images
 
+## Technologies
+- Vue.js
+- HTML
+- CSS
+
+## Integrations
+- axios
+- Lodash
+- Vue Router
+- Vuex
+- Imgur API
+- Semantic UI
+
 ## Project setup
 ```
 npm install
