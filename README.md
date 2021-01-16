@@ -1,4 +1,12 @@
-# images
+# Overview
+
+This Vue.js application includes user authentication using OAuth2 tokens to verify a user's Imgur Account. Once verified, the user can either click to upload or drag and drop multiple images, as well as navigate to and view their gallery of images. When they're finished, they can logout.
+
+![login](./src/images/login.png)
+
+![upload](./src/images/upload.png)
+
+![images](./src/images/images.png)
 
 ## Technologies
 - Vue.js
@@ -13,25 +21,10 @@
 - Imgur API
 - Semantic UI
 
-## Project setup
-```
-npm install
-```
+## How To Get Started
+- Clone this github repo by using: 
+git clone https://github.com/raynamcginnis/Image-Storage.git
 
-### Compiles and hot-reloads for development
-```
+- Run the application by using: 
+
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
